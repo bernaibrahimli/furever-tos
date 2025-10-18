@@ -2,7 +2,7 @@
 
 **Last Updated:** October 18, 2025  
 **Effective Date:** October 18, 2025  
-**Version:** 1.2
+**Version:** 1.1
 
 ## Agreement to Terms
 
@@ -397,4 +397,4 @@ BY USING FUREVER, YOU ACKNOWLEDGE THAT:
 
 **Furever - Keep Your Pets Happy and Healthy** 🐾
 
-*These Terms of Service were last updated on October 18, 2025 for App Version 1.2*
+*These Terms of Service were last updated on October 18, 2025 for App Version 1.1*
